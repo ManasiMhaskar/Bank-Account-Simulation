@@ -6,8 +6,9 @@ The primary objective of this project is to simulate core functionalities of a b
 and maintaining transaction history, all implemented using Java OOP concepts.
 
 Tools Used:
+
 Java: The core programming language for the application.
-Eclipse IdE for Enterprise Java Development Environment (IDE) used for development.
+Eclipse: IdE for Enterprise Java Development Environment (IDE) used for development.
 Terminal: Used for compiling and running the Java program.
 
 Deliverables:
